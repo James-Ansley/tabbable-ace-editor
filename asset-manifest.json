@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tabbable-ace-editor/static/css/main.359e1018.css",
-    "main.js": "/tabbable-ace-editor/static/js/main.9ba99e4b.js",
+    "main.css": "/tabbable-ace-editor/static/css/main.6632761b.css",
+    "main.js": "/tabbable-ace-editor/static/js/main.e08477b4.js",
     "index.html": "/tabbable-ace-editor/index.html",
-    "main.359e1018.css.map": "/tabbable-ace-editor/static/css/main.359e1018.css.map",
-    "main.9ba99e4b.js.map": "/tabbable-ace-editor/static/js/main.9ba99e4b.js.map"
+    "main.6632761b.css.map": "/tabbable-ace-editor/static/css/main.6632761b.css.map",
+    "main.e08477b4.js.map": "/tabbable-ace-editor/static/js/main.e08477b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.359e1018.css",
-    "static/js/main.9ba99e4b.js"
+    "static/css/main.6632761b.css",
+    "static/js/main.e08477b4.js"
   ]
 }
