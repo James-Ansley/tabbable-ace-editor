@@ -36,16 +36,19 @@ const generateSlug = (string) => {
 function App() {
     return (
         <div className="App">
-            <h1>Tabbable Editors</h1>
+            <h1>Tabbable Ace Editor</h1>
             <p>An Example of tabbable code editors.</p>
             <p>
                 Sites can be tabbed through normally. However, whenever
-                a <a href={"https://github.com/securingsincity/react-ace"}>react-ace</a> component
+                a <a href={"https://github.com/securingsincity/react-ace"} target={"_blank"} rel={"noreferrer"}>react-ace</a> component
                 is interacted with either by clicking on it or typing while the
                 editor is focused, tabs will then indent or dedent the code.
                 This can be escaped by clicking off the editor or by pressing
                 the escape key at which point tabs can be used to navigate
                 the page.
+            </p>
+            <p>
+                Check out the code in the <a href={"https://github.com/James-Ansley/tabbable-ace-editor"} target={"_blank"} rel={"noreferrer"}>tabbable-ace-editor repo</a>.
             </p>
             {h2("A Code Example")}
             <CodeEditor code={`print("Hello, World! ")`}/>
